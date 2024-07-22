@@ -1,17 +1,12 @@
+import Navigation from './Navigation';
+
 export default function Header(){
 
-return(
-   <header>
-    <div>
-        <h1> Jemeric Portfolio</h1>
-    </div>
-    <div>
-        <a href=''> About-Me</a>
-        <a href=''> Contact</a>
-        <a href=''> Portfolio</a>
-        <a href=''> Resume</a>
 
+return(
+<div class='navbar navbar-expand-lg bg-primary-subtle'>
+    <h1 class='fs-1 mx-3'> Jemeric Portfolio</h1>
+    <Navigation />
     </div>
-   </header>
 )
 }

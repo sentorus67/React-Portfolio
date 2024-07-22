@@ -1,0 +1,40 @@
+#root{
+    min-height: 1000px;
+    background-image: url(./Assets/Sea.jpg);
+    background-size: 100%;
+}
+
+
+#Turtle{
+    background-image: url(./Assets/Turtle.jpg);
+    background-size: 100%;
+
+}
+
+#Whale{
+    background-image: url(./Assets/Whale.jpg);
+    background-size: 100%;
+
+}
+
+#Eel{
+    background-image: url(./Assets/Eel.jpg);
+    background-size: 100%;
+
+}
+
+#Crab{
+    background-image: url(./Assets/Crab.jpg);
+    background-size: 100%;
+
+}
+
+#Octopus{
+    background-image: url(./Assets/Octopus.jpg);
+    background-size: 100%;
+
+}
+.card{
+    height: 300px;
+    width: 300px;
+}
